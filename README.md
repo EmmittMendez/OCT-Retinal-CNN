@@ -2,13 +2,13 @@
 
 The goal of this project is to design and implement digital image processing techniques to enhance the detection of retinal diseases using OCT (Optical Coherence Tomography) images. These images allow ophthalmologists to closely observe each layer of the retina, facilitating the diagnosis of various conditions. This approach enables the use of OCT images to develop predictive models for classifying patients into different categories.
 
-![CNV Image](img\CNV1.jpeg)
+![CNV Image](img/CNV1.jpeg)
 
-![DME Image](img\DME2.jpeg)
+![DME Image](img/DME2.jpeg)
 
-![DRUSEN Image](img\DRUSEN5.jpeg)
+![DRUSEN Image](img/DRUSEN5.jpeg)
 
-![NORMAL Image](img\NORMAL4.jpeg)
+![NORMAL Image](img/NORMAL4.jpeg)
 
 ---
 
@@ -37,19 +37,19 @@ This project uses the **"Retinal OCT Feature Map and Filters Visualization"** da
 The images have relatively low resolution, variable dimensions, and noise in the form of spots and white borders.
 
 **CNV Original and preprocessed images**
-| ![CNV Image](img\CNV.png) | ![CNV Image Result](img\CNV-Result.png) |
+| ![CNV Image](img/CNV.png) | ![CNV Image Result](img/CNV-Result.png) |
 |-----------------------------|-----------------------------|
 
 **DME Original and preprocessed images**
-| ![DME Image](img\DME.png) | ![DME Image Result](img\DME-Result.png) |
+| ![DME Image](img/DME.png) | ![DME Image Result](img/DME-Result.png) |
 |-----------------------------|-----------------------------|
 
 **DRUSEN Original and preprocessed images**
-| ![DRUSEN Image](img\DRUSEN.png) | ![DRUSEN Image Result](img\DRUSEN-Result.png) |
+| ![DRUSEN Image](img/DRUSEN.png) | ![DRUSEN Image Result](img/DRUSEN-Result.png) |
 |-----------------------------|-----------------------------|
 
 **NORMAL Original and preprocessed images**
-| ![NORMAL Image](img\NORMAL.png) | ![NORMAL Image Result](img\NORMAL-Result.png) |
+| ![NORMAL Image](img/NORMAL.png) | ![NORMAL Image Result](img/NORMAL-Result.png) |
 |-----------------------------|-----------------------------|
 
 ---
