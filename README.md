@@ -2,13 +2,11 @@
 
 The goal of this project is to design and implement digital image processing techniques to enhance the detection of retinal diseases using OCT (Optical Coherence Tomography) images. These images allow ophthalmologists to closely observe each layer of the retina, facilitating the diagnosis of various conditions. This approach enables the use of OCT images to develop predictive models for classifying patients into different categories.
 
-![CNV Image](img/CNV1.jpeg)
+| ![CNV Image](img/CNV1.jpeg) | ![DME Image](img/DME2.jpeg) |
+|-----------------------------|-----------------------------|
 
-![DME Image](img/DME2.jpeg)
-
-![DRUSEN Image](img/DRUSEN5.jpeg)
-
-![NORMAL Image](img/NORMAL4.jpeg)
+| ![DRUSEN Image](img/DRUSEN5.jpeg) | ![NORMAL Image](img/NORMAL4.jpeg) |
+|-----------------------------|-----------------------------|
 
 ---
 
